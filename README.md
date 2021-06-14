@@ -13,7 +13,8 @@
 ## Deployed Website
 - https://budget-tracker-kfr.herokuapp.com/
 ## Description
-- 
+- The user can enter billing names and amounts that will be automatically added to a table
+- This information can be obtained even without an internet connection
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 <br />
